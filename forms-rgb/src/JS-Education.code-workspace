@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"path": "../../../../JS-Education"
+	},
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../../../../../Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/Kazi"
+	}
+],
+  "settings": {
+    "jest.disabledWorkspaceFolders": [
+      "REACT Education",
+      "JS-Education",
+      "Kazi"
+    ],
+    "liveServer.settings.multiRootWorkspaceName": "JS-Education"
+  }
+}
